@@ -1,3 +1,3 @@
 # SkyPort on codesandbox
 
-## bash <(curl -s https://raw.githubusercontent.com/thefeziak/skyport/hydra_panel.sh)
+## bash <(curl -s https://raw.githubusercontent.com/thefeziak/skyport/main/hydra_panel.sh)
