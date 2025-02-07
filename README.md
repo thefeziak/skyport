@@ -28,6 +28,10 @@ while True:
 
 ## ctrl + xy
 
-## apt install python3 -y
+## Commands to run:
 
-## python3 247.py
+```bash
+apt install python3 -y
+
+python3 247.py
+```
